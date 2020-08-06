@@ -1,7 +1,7 @@
 
 ### Hi there 👋!
 
-### I'm Mitchell, a rising Senior at Brandeis University studying Computer Science 💻 and Business 👔.
+### I'm [Mitchell](https://www.mitchelldodell.com), a rising Senior at Brandeis University studying Computer Science 💻 and Business 👔.
 
 <a href="https://www.linkedin.com/in/mitchell-dodell/">
   <img align="left" alt="Mitchell Dodell | LinkedIn" width="32px" src="https://raw.githubusercontent.com/mdodell/mdodell/master/assets/linkedin.svg" />
