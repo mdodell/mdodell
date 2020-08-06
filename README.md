@@ -1,5 +1,5 @@
 
-### Hi there 👋!
+### Hi there <img src="https://raw.githubusercontent.com/mdodell/mdodell/master/assets/blob-wave.gif" width="30px">!
 
 ### I'm [Mitchell](https://www.mitchelldodell.com), a rising Senior at Brandeis University studying Computer Science 💻 and Business 👔.
 
@@ -18,5 +18,4 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdodell&show_icons=true&include_all_commits=true&theme=radical" alt="Mitchell's github stats" />
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdodell&layout=compact&theme=radical" />
