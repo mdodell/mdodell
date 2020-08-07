@@ -1,7 +1,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/mdodell/mdodell/master/assets/wave.gif" width="30px">, I'm [Mitchell](https://www.mitchelldodell.com)!
 
-## About Me
+## 🧑🏻‍💻 About Me
 I'm Mitchell, a rising Senior at Brandeis University studying Computer Science
 💻 and Business 👔.
 
@@ -11,7 +11,7 @@ When I'm not at my computer coding, you can find me:
 * 💬 Giving tours at Brandeis University
 * 🇮🇱 Consulting for Israeli start-ups
 
-## Follow Me
+## 👀 Follow Me
 <a href="https://www.linkedin.com/in/mitchell-dodell/">
   <img align="left" alt="Mitchell Dodell | LinkedIn" width="32px" src="https://raw.githubusercontent.com/mdodell/mdodell/master/assets/linkedin.svg" />
 </a>
@@ -23,7 +23,7 @@ When I'm not at my computer coding, you can find me:
 </a>
 <br />
 
-## :bar_chart: Github Stats
+## 📊 Github Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mdodell&show_icons=true&include_all_commits=true&count_private=true" alt="Mitchell's github stats" />
 
