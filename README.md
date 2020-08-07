@@ -23,8 +23,8 @@ When I'm not at my computer coding, you can find me:
 </a>
 <br />
 
-## Languages and Tools
+## :bar_chart: Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdodell&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Mitchell's github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mdodell&show_icons=true&include_all_commits=true&count_private=true" alt="Mitchell's github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdodell&layout=compact&theme=highcontrast" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdodell&hide=roff" />
