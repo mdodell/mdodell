@@ -2,8 +2,8 @@
 # Hi there <img src="https://raw.githubusercontent.com/mdodell/mdodell/master/assets/wave.gif" width="30px">, I'm [Mitchell](https://www.mitchelldodell.com)!
 
 ## 🧑🏻‍💻 About Me
-I'm Mitchell, a rising Senior at Brandeis University studying Computer Science
-💻 and Business 👔.
+I'm Mitchell, a Senior at Brandeis University studying Computer Science
+💻 and Business 👔. I am currently interning at [Homeward](https://www.homeward.com/) as a Software Engineer Intern, and will be starting as a Software Engineer at [Hubspot](https://www.hubspot.com/) in July 2021.
 
 When I'm not at my computer coding, you can find me:
 * 🪁 Flying my drone
