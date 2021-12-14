@@ -2,12 +2,13 @@
 # Hi there <img src="https://raw.githubusercontent.com/mdodell/mdodell/master/assets/wave.gif" width="30px">, I'm [Mitchell](https://www.mitchelldodell.com)!
 
 ## 🧑🏻‍💻 About Me
-I'm Mitchell, a Senior at Brandeis University studying Computer Science
-💻 and Business 👔. I am currently working at [Hubspot](https://www.hubspot.com/) as a Software Engineer, on the Integrations Experience Team.
+I'm Mitchell, a recent graduate of Brandeis University studying Computer Science
+💻 and Business 👔. I am currently working at [Hubspot](https://www.hubspot.com/) as a Software Engineer on the Integrations Experience Team.
 
 When I'm not at my computer coding, you can find me:
 * 🪁 Flying my drone
 * 🎮 Playing video games
+* 🧑‍🍳 Cooking food in my air fryer or making homemade ice cream
 
 ## 👀 Follow Me
 <a href="https://www.linkedin.com/in/mitchell-dodell/">
