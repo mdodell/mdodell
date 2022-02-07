@@ -3,7 +3,7 @@
 
 ## 🧑🏻‍💻 About Me
 I'm Mitchell, a recent graduate of Brandeis University studying Computer Science
-💻 and Business 👔. I am currently working at [Hubspot](https://www.hubspot.com/) as a Software Engineer on the Integrations Experience Team.
+💻 and Business 👔. I am currently working at [Hubspot](https://www.hubspot.com/) as a Software Engineer on the App Lifecycle Frontend Team using React and Typescript.
 
 When I'm not at my computer coding, you can find me:
 * 🪁 Flying my drone
